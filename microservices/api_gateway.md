@@ -38,4 +38,4 @@ o AG pode atuar como um proxy reverso, roteando as solicitações recebidas para
 ### 𝗔𝗣𝗜 𝘃𝗲𝗿𝘀𝗶𝗼𝗻𝗶𝗻𝗴: 
 AG pode ser usado para implementar versionamento de API, permitindo manter várias versões de uma API e gerenciar a transição de uma versão para outra.
 
-<img src="api_gateway.gif" width="40" height="40" />
+<img src="api_gateway.gif" width="50" height="50" />
